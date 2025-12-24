@@ -814,7 +814,7 @@
           <mxGeometry x="2068.0044444444443" y="870" width="115.55555555555554" height="87.5" as="geometry" />
         </mxCell>
         <mxCell id="_SmEgkHZK2ksjBxif6EU-23" value="设备名" style="ellipse;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="1709.44" y="1000.005" width="115" height="80" as="geometry" />
+          <mxGeometry x="1695" y="1010.005" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_SmEgkHZK2ksjBxif6EU-18" value="规格型号" style="ellipse;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
           <mxGeometry x="1860" y="1010" width="120" height="80" as="geometry" />
