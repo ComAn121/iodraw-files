@@ -97,9 +97,6 @@
             <mxPoint x="231.1111111111111" y="279.6875" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_SmEgkHZK2ksjBxif6EU-21" value="购买时间" style="ellipse;whiteSpace=wrap;html=1;container=0;" parent="_SmEgkHZK2ksjBxif6EU-16" vertex="1">
-          <mxGeometry x="49.998888888888885" y="330" width="115.55555555555554" height="87.5" as="geometry" />
-        </mxCell>
         <mxCell id="_SmEgkHZK2ksjBxif6EU-22" value="" style="endArrow=none;html=1;rounded=0;" parent="_SmEgkHZK2ksjBxif6EU-16" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="115.55555555555554" y="246.875" as="sourcePoint" />
@@ -827,6 +824,9 @@
         </mxCell>
         <mxCell id="_SmEgkHZK2ksjBxif6EU-19" value="设备" style="rounded=0;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
           <mxGeometry x="1840.0033333333333" y="960.0025" width="115.55555555555554" height="65.625" as="geometry" />
+        </mxCell>
+        <mxCell id="_SmEgkHZK2ksjBxif6EU-21" value="购买时间" style="ellipse;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
+          <mxGeometry x="1653.9988888888888" y="850" width="115.55555555555554" height="87.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
