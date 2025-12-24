@@ -259,7 +259,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_SmEgkHZK2ksjBxif6EU-34" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="250" y="500" width="500" height="290" as="geometry" />
+          <mxGeometry x="80" y="490" width="500" height="290" as="geometry" />
         </mxCell>
         <mxCell id="LWZBtPnpechll_882FjG-10" value="国家标准设备分类" style="rounded=0;whiteSpace=wrap;html=1;" parent="_SmEgkHZK2ksjBxif6EU-34" vertex="1">
           <mxGeometry x="150" y="80" width="120" height="60" as="geometry" />
