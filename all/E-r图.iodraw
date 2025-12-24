@@ -133,9 +133,6 @@
             <mxPoint x="260" y="214.0625" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_SmEgkHZK2ksjBxif6EU-31" value="设备原值" style="ellipse;whiteSpace=wrap;html=1;container=0;" parent="_SmEgkHZK2ksjBxif6EU-16" vertex="1">
-          <mxGeometry x="300" y="390" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="_SmEgkHZK2ksjBxif6EU-33" value="年折旧率" style="ellipse;whiteSpace=wrap;html=1;" parent="_SmEgkHZK2ksjBxif6EU-16" vertex="1">
           <mxGeometry x="440" y="390" width="120" height="80" as="geometry" />
         </mxCell>
@@ -827,6 +824,9 @@
         </mxCell>
         <mxCell id="_SmEgkHZK2ksjBxif6EU-21" value="购买时间" style="ellipse;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
           <mxGeometry x="1653.9988888888888" y="850" width="115.55555555555554" height="87.5" as="geometry" />
+        </mxCell>
+        <mxCell id="_SmEgkHZK2ksjBxif6EU-31" value="设备原值" style="ellipse;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
+          <mxGeometry x="1780" y="810" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
