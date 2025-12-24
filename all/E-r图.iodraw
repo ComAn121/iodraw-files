@@ -765,8 +765,10 @@
             <mxPoint x="450" y="930" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_SmEgkHZK2ksjBxif6EU-118" value="设备id" style="ellipse;whiteSpace=wrap;html=1;" parent="_SmEgkHZK2ksjBxif6EU-89" vertex="1">
-          <mxGeometry x="410" y="980" width="120" height="80" as="geometry" />
+        <mxCell id="qVu87Lmf2xAxvNM7CEiY-1" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_SmEgkHZK2ksjBxif6EU-117">
+          <mxGeometry x="0.2207" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="_SmEgkHZK2ksjBxif6EU-119" value="" style="endArrow=none;html=1;rounded=0;" parent="_SmEgkHZK2ksjBxif6EU-89" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
