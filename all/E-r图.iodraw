@@ -474,12 +474,6 @@
         <mxCell id="_SmEgkHZK2ksjBxif6EU-84" value="联系电话" style="ellipse;whiteSpace=wrap;html=1;" parent="_SmEgkHZK2ksjBxif6EU-73" vertex="1">
           <mxGeometry width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_SmEgkHZK2ksjBxif6EU-131" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="_SmEgkHZK2ksjBxif6EU-73" target="_SmEgkHZK2ksjBxif6EU-19" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="340" y="110" as="sourcePoint" />
-            <mxPoint x="390" y="60" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="_SmEgkHZK2ksjBxif6EU-197" value="生产供应" style="rhombus;whiteSpace=wrap;html=1;rotation=10;" parent="_SmEgkHZK2ksjBxif6EU-73" vertex="1">
           <mxGeometry x="471" y="110" width="190" height="80" as="geometry" />
         </mxCell>
