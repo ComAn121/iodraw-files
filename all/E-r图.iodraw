@@ -438,7 +438,7 @@
         <mxCell id="_SmEgkHZK2ksjBxif6EU-73" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="770" y="-10" width="760" height="430" as="geometry" />
         </mxCell>
-        <mxCell id="_SmEgkHZK2ksjBxif6EU-74" value="设备厂商信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="_SmEgkHZK2ksjBxif6EU-73" vertex="1">
+        <mxCell id="_SmEgkHZK2ksjBxif6EU-74" value="设备厂商" style="rounded=0;whiteSpace=wrap;html=1;" parent="_SmEgkHZK2ksjBxif6EU-73" vertex="1">
           <mxGeometry x="220" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_SmEgkHZK2ksjBxif6EU-75" value="" style="endArrow=none;html=1;rounded=0;" parent="_SmEgkHZK2ksjBxif6EU-73" edge="1">
@@ -689,9 +689,6 @@
             <mxPoint x="150" y="50" as="sourcePoint" />
             <mxPoint x="300" y="80" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="_SmEgkHZK2ksjBxif6EU-97" value="来源单位id" style="ellipse;whiteSpace=wrap;html=1;" parent="_SmEgkHZK2ksjBxif6EU-92" vertex="1">
-          <mxGeometry x="300" y="60" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_SmEgkHZK2ksjBxif6EU-98" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="_SmEgkHZK2ksjBxif6EU-92" target="_SmEgkHZK2ksjBxif6EU-91" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
