@@ -101,7 +101,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_SmEgkHZK2ksjBxif6EU-21" value="购买时间" style="ellipse;whiteSpace=wrap;html=1;container=0;" parent="_SmEgkHZK2ksjBxif6EU-16" vertex="1">
-          <mxGeometry x="28.888888888888886" y="312.5" width="115.55555555555554" height="87.5" as="geometry" />
+          <mxGeometry x="49.998888888888885" y="330" width="115.55555555555554" height="87.5" as="geometry" />
         </mxCell>
         <mxCell id="_SmEgkHZK2ksjBxif6EU-22" value="" style="endArrow=none;html=1;rounded=0;" parent="_SmEgkHZK2ksjBxif6EU-16" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
