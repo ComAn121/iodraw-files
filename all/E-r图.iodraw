@@ -146,15 +146,6 @@
         <mxCell id="_SmEgkHZK2ksjBxif6EU-158" value="属于" style="rhombus;whiteSpace=wrap;html=1;rotation=-25;" parent="_SmEgkHZK2ksjBxif6EU-16" vertex="1">
           <mxGeometry x="-220" y="360" width="190" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_SmEgkHZK2ksjBxif6EU-159" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="_SmEgkHZK2ksjBxif6EU-16" source="LWZBtPnpechll_882FjG-21" target="_SmEgkHZK2ksjBxif6EU-158" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1130" y="465" as="sourcePoint" />
-            <mxPoint x="1670" y="220" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LWZBtPnpechll_882FjG-21" value="设备使用单位" style="rounded=0;whiteSpace=wrap;html=1;container=0;" parent="_SmEgkHZK2ksjBxif6EU-16" vertex="1">
-          <mxGeometry x="-440" y="480" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="LWZBtPnpechll_882FjG-22" value="" style="endArrow=none;html=1;rounded=0;" parent="_SmEgkHZK2ksjBxif6EU-16" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-480" y="590" as="sourcePoint" />
@@ -193,12 +184,6 @@
         </mxCell>
         <mxCell id="LWZBtPnpechll_882FjG-29" value="联系人" style="ellipse;whiteSpace=wrap;html=1;container=0;" parent="_SmEgkHZK2ksjBxif6EU-16" vertex="1">
           <mxGeometry x="-540" y="360" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="_SmEgkHZK2ksjBxif6EU-138" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="_SmEgkHZK2ksjBxif6EU-16" source="LWZBtPnpechll_882FjG-21" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-480" y="470" as="sourcePoint" />
-            <mxPoint x="-430" y="420" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="_SmEgkHZK2ksjBxif6EU-34" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="80" y="490" width="500" height="290" as="geometry" />
@@ -796,6 +781,9 @@
         </mxCell>
         <mxCell id="_SmEgkHZK2ksjBxif6EU-44" value="分类描述" style="ellipse;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
           <mxGeometry x="1160" y="-290" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LWZBtPnpechll_882FjG-21" value="设备使用单位" style="rounded=0;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="1340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
