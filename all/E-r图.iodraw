@@ -546,7 +546,7 @@
           <mxGeometry x="1305" y="1530" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_SmEgkHZK2ksjBxif6EU-33" value="年折旧率" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1465" y="1530" width="120" height="80" as="geometry" />
+          <mxGeometry x="1460" y="1530" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_SmEgkHZK2ksjBxif6EU-26" value="设备状态" style="ellipse;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
           <mxGeometry x="1593.0044444444443" y="1590" width="115.55555555555554" height="87.5" as="geometry" />
@@ -787,6 +787,12 @@
         </mxCell>
         <mxCell id="F0lkXRUtlR4Ca_PqkHmx-9" value="属于" style="rhombus;whiteSpace=wrap;html=1;rotation=-40;" vertex="1" parent="1">
           <mxGeometry x="1611.56" y="1400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="F0lkXRUtlR4Ca_PqkHmx-10" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1440" y="1680" as="sourcePoint" />
+            <mxPoint x="1490" y="1630" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
