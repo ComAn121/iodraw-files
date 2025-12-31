@@ -422,7 +422,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_SmEgkHZK2ksjBxif6EU-76" value="厂商id" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1725" y="620" width="120" height="80" as="geometry" />
+          <mxGeometry x="1654" y="1140" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_SmEgkHZK2ksjBxif6EU-77" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -431,7 +431,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_SmEgkHZK2ksjBxif6EU-78" value="厂商名称" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1825" y="740" width="120" height="80" as="geometry" />
+          <mxGeometry x="1754" y="870" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_SmEgkHZK2ksjBxif6EU-79" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -440,10 +440,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_SmEgkHZK2ksjBxif6EU-80" value="厂商地址" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2160" y="770" width="120" height="80" as="geometry" />
+          <mxGeometry x="2089" y="900" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_SmEgkHZK2ksjBxif6EU-82" value="联系人" style="ellipse;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="2120" y="870" width="120" height="80" as="geometry" />
+          <mxGeometry x="2049" y="1000" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_SmEgkHZK2ksjBxif6EU-83" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -452,7 +452,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_SmEgkHZK2ksjBxif6EU-84" value="联系电话" style="ellipse;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="1940" y="640" width="120" height="80" as="geometry" />
+          <mxGeometry x="1869" y="770" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_SmEgkHZK2ksjBxif6EU-197" value="生产供应" style="rhombus;whiteSpace=wrap;html=1;rotation=10;" parent="1" vertex="1">
           <mxGeometry x="2251" y="520" width="190" height="80" as="geometry" />
