@@ -654,13 +654,13 @@
           <mxGeometry x="1284.44" y="400" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LWZBtPnpechll_882FjG-23" value="单位id" style="ellipse;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="1150" y="1120" width="120" height="80" as="geometry" />
+          <mxGeometry x="1160" y="1200" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LWZBtPnpechll_882FjG-25" value="单位名称" style="ellipse;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
           <mxGeometry x="1000" y="1120" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LWZBtPnpechll_882FjG-27" value="单位地址" style="ellipse;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="850" y="1120" width="120" height="80" as="geometry" />
+          <mxGeometry x="840" y="1154" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LWZBtPnpechll_882FjG-29" value="联系人" style="ellipse;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
           <mxGeometry x="1000" y="1370" width="120" height="80" as="geometry" />
