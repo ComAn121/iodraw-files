@@ -812,7 +812,7 @@
             <mxPoint x="1440.56" y="1329.2893218813451" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F0lkXRUtlR4Ca_PqkHmx-15" value="使用" style="rhombus;whiteSpace=wrap;html=1;rotation=-45;" vertex="1" parent="1">
+        <mxCell id="F0lkXRUtlR4Ca_PqkHmx-15" value="报废" style="rhombus;whiteSpace=wrap;html=1;rotation=-45;" vertex="1" parent="1">
           <mxGeometry x="1181" y="1830" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="F0lkXRUtlR4Ca_PqkHmx-16" value="使用" style="rhombus;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
