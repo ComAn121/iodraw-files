@@ -401,10 +401,10 @@
           <mxGeometry x="1260.56" y="1324" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_SmEgkHZK2ksjBxif6EU-40" value="分类名称" style="ellipse;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="1465" y="1140" width="120" height="80" as="geometry" />
+          <mxGeometry x="1473" y="1140" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_SmEgkHZK2ksjBxif6EU-44" value="分类描述" style="ellipse;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="1505" y="1320" width="120" height="80" as="geometry" />
+          <mxGeometry x="1495" y="1324" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="F0lkXRUtlR4Ca_PqkHmx-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="F0lkXRUtlR4Ca_PqkHmx-5" target="_SmEgkHZK2ksjBxif6EU-19">
           <mxGeometry relative="1" as="geometry" />
