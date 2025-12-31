@@ -773,8 +773,13 @@
             <mxPoint x="2550" y="-80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F0lkXRUtlR4Ca_PqkHmx-5" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="1440" width="80" height="120" as="geometry" />
+        <mxCell id="F0lkXRUtlR4Ca_PqkHmx-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F0lkXRUtlR4Ca_PqkHmx-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1220" y="1360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F0lkXRUtlR4Ca_PqkHmx-5" value="" style="rhombus;whiteSpace=wrap;html=1;rotation=-30;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="1390" width="80" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
