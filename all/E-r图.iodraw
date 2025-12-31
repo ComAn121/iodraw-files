@@ -543,7 +543,7 @@
           <mxGeometry x="1645" y="158" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_SmEgkHZK2ksjBxif6EU-19" value="设备" style="rounded=0;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="1385.0033333333333" y="1640.0025" width="115.55555555555554" height="65.625" as="geometry" />
+          <mxGeometry x="1385.0033333333333" y="1640.0025" width="120" height="65.625" as="geometry" />
         </mxCell>
         <mxCell id="_SmEgkHZK2ksjBxif6EU-21" value="购买时间" style="ellipse;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
           <mxGeometry x="1169.9988888888888" y="1590" width="115.55555555555554" height="87.5" as="geometry" />
@@ -729,7 +729,7 @@
           <mxGeometry x="995" y="1250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_SmEgkHZK2ksjBxif6EU-74" value="设备厂商" style="rounded=0;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="1805" y="1340" width="120" height="60" as="geometry" />
+          <mxGeometry x="1805" y="1250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_SmEgkHZK2ksjBxif6EU-75" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
