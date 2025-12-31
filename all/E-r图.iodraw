@@ -248,7 +248,7 @@
           <mxGeometry x="1230" y="1713.9950000000001" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_SmEgkHZK2ksjBxif6EU-18" value="规格型号" style="ellipse;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="1385" y="1730" width="120" height="80" as="geometry" />
+          <mxGeometry x="1380.56" y="1730" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_SmEgkHZK2ksjBxif6EU-17" value="&lt;u&gt;设备id&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
           <mxGeometry x="1550" y="1714" width="120" height="80" as="geometry" />
@@ -727,7 +727,7 @@
             <mxPoint x="1370" y="1550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F0lkXRUtlR4Ca_PqkHmx-52" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="F0lkXRUtlR4Ca_PqkHmx-52" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_SmEgkHZK2ksjBxif6EU-19" target="_SmEgkHZK2ksjBxif6EU-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1320" y="1600" as="sourcePoint" />
             <mxPoint x="1370" y="1550" as="targetPoint" />
