@@ -782,8 +782,8 @@
         <mxCell id="F0lkXRUtlR4Ca_PqkHmx-5" value="使用" style="rhombus;whiteSpace=wrap;html=1;rotation=45;" vertex="1" parent="1">
           <mxGeometry x="1165" y="1420" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="F0lkXRUtlR4Ca_PqkHmx-8" value="使用" style="rhombus;whiteSpace=wrap;html=1;rotation=45;" vertex="1" parent="1">
-          <mxGeometry x="960" y="1420" width="120" height="80" as="geometry" />
+        <mxCell id="F0lkXRUtlR4Ca_PqkHmx-8" value="使用" style="rhombus;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="1380.56" y="1380" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
