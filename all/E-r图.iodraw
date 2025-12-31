@@ -269,7 +269,7 @@
           <mxGeometry x="3050" y="480" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_SmEgkHZK2ksjBxif6EU-111" value="检修人" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="3040" y="193" width="120" height="80" as="geometry" />
+          <mxGeometry x="2960" y="300" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_SmEgkHZK2ksjBxif6EU-112" value="检修花费" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3220" y="218" width="120" height="80" as="geometry" />
