@@ -329,63 +329,6 @@
         <mxCell id="_SmEgkHZK2ksjBxif6EU-71" value="联系电话" style="ellipse;whiteSpace=wrap;html=1;" parent="_SmEgkHZK2ksjBxif6EU-72" vertex="1">
           <mxGeometry width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_SmEgkHZK2ksjBxif6EU-73" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="770" y="-10" width="760" height="430" as="geometry" />
-        </mxCell>
-        <mxCell id="_SmEgkHZK2ksjBxif6EU-74" value="设备厂商" style="rounded=0;whiteSpace=wrap;html=1;container=0;" parent="_SmEgkHZK2ksjBxif6EU-73" vertex="1">
-          <mxGeometry x="220" y="60" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_SmEgkHZK2ksjBxif6EU-75" value="" style="endArrow=none;html=1;rounded=0;" parent="_SmEgkHZK2ksjBxif6EU-73" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="170" y="170" as="sourcePoint" />
-            <mxPoint x="220" y="120" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_SmEgkHZK2ksjBxif6EU-76" value="厂商id" style="ellipse;whiteSpace=wrap;html=1;" parent="_SmEgkHZK2ksjBxif6EU-73" vertex="1">
-          <mxGeometry x="90" y="170" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="_SmEgkHZK2ksjBxif6EU-77" value="" style="endArrow=none;html=1;rounded=0;" parent="_SmEgkHZK2ksjBxif6EU-73" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="300" y="260" as="sourcePoint" />
-            <mxPoint x="300" y="120" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_SmEgkHZK2ksjBxif6EU-78" value="厂商名称" style="ellipse;whiteSpace=wrap;html=1;" parent="_SmEgkHZK2ksjBxif6EU-73" vertex="1">
-          <mxGeometry x="231" y="260" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="_SmEgkHZK2ksjBxif6EU-79" value="" style="endArrow=none;html=1;rounded=0;" parent="_SmEgkHZK2ksjBxif6EU-73" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420" y="220" as="sourcePoint" />
-            <mxPoint x="340" y="110" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_SmEgkHZK2ksjBxif6EU-80" value="厂商地址" style="ellipse;whiteSpace=wrap;html=1;" parent="_SmEgkHZK2ksjBxif6EU-73" vertex="1">
-          <mxGeometry x="374" y="220" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="_SmEgkHZK2ksjBxif6EU-81" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="_SmEgkHZK2ksjBxif6EU-73" target="_SmEgkHZK2ksjBxif6EU-82" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="340" y="80" as="sourcePoint" />
-            <mxPoint x="450" y="110" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_SmEgkHZK2ksjBxif6EU-82" value="联系人" style="ellipse;whiteSpace=wrap;html=1;container=0;" parent="_SmEgkHZK2ksjBxif6EU-73" vertex="1">
-          <mxGeometry x="400" y="-30" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="_SmEgkHZK2ksjBxif6EU-83" value="" style="endArrow=none;html=1;rounded=0;" parent="_SmEgkHZK2ksjBxif6EU-73" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="100" y="50" as="sourcePoint" />
-            <mxPoint x="220" y="60" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_SmEgkHZK2ksjBxif6EU-84" value="联系电话" style="ellipse;whiteSpace=wrap;html=1;container=0;" parent="_SmEgkHZK2ksjBxif6EU-73" vertex="1">
-          <mxGeometry width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="_SmEgkHZK2ksjBxif6EU-197" value="生产供应" style="rhombus;whiteSpace=wrap;html=1;rotation=10;" parent="_SmEgkHZK2ksjBxif6EU-73" vertex="1">
-          <mxGeometry x="471" y="110" width="190" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="_SmEgkHZK2ksjBxif6EU-202" value="分类" style="rhombus;whiteSpace=wrap;html=1;rotation=30;container=0;" parent="_SmEgkHZK2ksjBxif6EU-73" vertex="1">
-          <mxGeometry x="560" y="10" width="190" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="_SmEgkHZK2ksjBxif6EU-88" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="150" y="1200" width="780" height="1060" as="geometry" />
         </mxCell>
@@ -784,6 +727,60 @@
         </mxCell>
         <mxCell id="LWZBtPnpechll_882FjG-21" value="设备使用单位" style="rounded=0;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
           <mxGeometry x="995" y="1340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_SmEgkHZK2ksjBxif6EU-74" value="设备厂商" style="rounded=0;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
+          <mxGeometry x="1720.56" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_SmEgkHZK2ksjBxif6EU-75" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1670.56" y="810" as="sourcePoint" />
+            <mxPoint x="1720.56" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_SmEgkHZK2ksjBxif6EU-76" value="厂商id" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1590.56" y="810" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_SmEgkHZK2ksjBxif6EU-77" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1800.56" y="900" as="sourcePoint" />
+            <mxPoint x="1800.56" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_SmEgkHZK2ksjBxif6EU-78" value="厂商名称" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1731.56" y="900" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_SmEgkHZK2ksjBxif6EU-79" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1920.56" y="860" as="sourcePoint" />
+            <mxPoint x="1840.56" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_SmEgkHZK2ksjBxif6EU-80" value="厂商地址" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1874.56" y="860" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_SmEgkHZK2ksjBxif6EU-81" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="_SmEgkHZK2ksjBxif6EU-82" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1840.56" y="720" as="sourcePoint" />
+            <mxPoint x="1950.56" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_SmEgkHZK2ksjBxif6EU-82" value="联系人" style="ellipse;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
+          <mxGeometry x="1900.56" y="610" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_SmEgkHZK2ksjBxif6EU-83" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1600.56" y="690" as="sourcePoint" />
+            <mxPoint x="1720.56" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_SmEgkHZK2ksjBxif6EU-84" value="联系电话" style="ellipse;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
+          <mxGeometry x="1500.56" y="640" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_SmEgkHZK2ksjBxif6EU-197" value="生产供应" style="rhombus;whiteSpace=wrap;html=1;rotation=10;" parent="1" vertex="1">
+          <mxGeometry x="1971.56" y="750" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_SmEgkHZK2ksjBxif6EU-202" value="分类" style="rhombus;whiteSpace=wrap;html=1;rotation=30;container=0;" parent="1" vertex="1">
+          <mxGeometry x="2060.56" y="650" width="190" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
