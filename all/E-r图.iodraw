@@ -426,8 +426,8 @@
         </mxCell>
         <mxCell id="_SmEgkHZK2ksjBxif6EU-77" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2080" y="670" as="sourcePoint" />
-            <mxPoint x="2080" y="530" as="targetPoint" />
+            <mxPoint x="2040" y="480" as="sourcePoint" />
+            <mxPoint x="2040" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_SmEgkHZK2ksjBxif6EU-78" value="厂商名称" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -442,14 +442,8 @@
         <mxCell id="_SmEgkHZK2ksjBxif6EU-80" value="厂商地址" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2160" y="770" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_SmEgkHZK2ksjBxif6EU-81" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="_SmEgkHZK2ksjBxif6EU-82" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2120" y="490" as="sourcePoint" />
-            <mxPoint x="2230" y="520" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="_SmEgkHZK2ksjBxif6EU-82" value="联系人" style="ellipse;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="2180" y="380" width="120" height="80" as="geometry" />
+          <mxGeometry x="2120" y="870" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_SmEgkHZK2ksjBxif6EU-83" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
