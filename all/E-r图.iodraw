@@ -272,7 +272,7 @@
           <mxGeometry x="1241" y="1940" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_SmEgkHZK2ksjBxif6EU-112" value="检修花费" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1530" y="2124" width="120" height="80" as="geometry" />
+          <mxGeometry x="1490" y="2134" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_SmEgkHZK2ksjBxif6EU-114" value="设备报废信息" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="995" y="2020" width="120" height="60" as="geometry" />
@@ -293,7 +293,7 @@
           <mxGeometry x="827" y="1954" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_SmEgkHZK2ksjBxif6EU-126" value="检修结果" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1241" y="2124" width="120" height="80" as="geometry" />
+          <mxGeometry x="1280" y="2134" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_SmEgkHZK2ksjBxif6EU-36" value="国家标准设备分类" style="rounded=0;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
           <mxGeometry x="1380.56" y="1250" width="120" height="60" as="geometry" />
@@ -751,7 +751,7 @@
             <mxPoint x="1550" y="1980" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F0lkXRUtlR4Ca_PqkHmx-56" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_SmEgkHZK2ksjBxif6EU-126" target="_SmEgkHZK2ksjBxif6EU-105">
+        <mxCell id="F0lkXRUtlR4Ca_PqkHmx-56" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="_SmEgkHZK2ksjBxif6EU-126" target="_SmEgkHZK2ksjBxif6EU-105">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1500" y="2030" as="sourcePoint" />
             <mxPoint x="1550" y="1980" as="targetPoint" />
