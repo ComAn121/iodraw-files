@@ -576,7 +576,7 @@
           <mxGeometry x="2380" y="-290" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_SmEgkHZK2ksjBxif6EU-105" value="设备检修信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1385" y="2020" width="120" height="60" as="geometry" />
+          <mxGeometry x="1380.56" y="2020" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_SmEgkHZK2ksjBxif6EU-106" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -824,7 +824,7 @@
             <mxPoint x="1500" y="1810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F0lkXRUtlR4Ca_PqkHmx-20" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="F0lkXRUtlR4Ca_PqkHmx-20" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="_SmEgkHZK2ksjBxif6EU-105" target="F0lkXRUtlR4Ca_PqkHmx-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1450" y="1860" as="sourcePoint" />
             <mxPoint x="1500" y="1810" as="targetPoint" />
