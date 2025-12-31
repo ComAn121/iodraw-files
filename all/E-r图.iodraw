@@ -689,7 +689,7 @@
         <mxCell id="_SmEgkHZK2ksjBxif6EU-44" value="分类描述" style="ellipse;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
           <mxGeometry x="1160" y="-290" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="F0lkXRUtlR4Ca_PqkHmx-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LWZBtPnpechll_882FjG-21" target="_SmEgkHZK2ksjBxif6EU-19">
+        <mxCell id="F0lkXRUtlR4Ca_PqkHmx-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;shape=link;" edge="1" parent="1" source="LWZBtPnpechll_882FjG-21" target="_SmEgkHZK2ksjBxif6EU-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LWZBtPnpechll_882FjG-21" value="设备使用单位" style="rounded=0;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
