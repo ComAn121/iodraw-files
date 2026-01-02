@@ -772,7 +772,7 @@
         <mxCell id="LWZBtPnpechll_882FjG-3" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
           <mxGeometry x="122.99888888888889" y="130" width="115.55555555555554" height="87.5" as="geometry" />
         </mxCell>
-        <mxCell id="LWZBtPnpechll_882FjG-4" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="LWZBtPnpechll_882FjG-4" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1" target="LWZBtPnpechll_882FjG-1" source="LWZBtPnpechll_882FjG-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="205.55555555555554" y="46.875" as="sourcePoint" />
             <mxPoint x="315.3333333333333" y="46.875" as="targetPoint" />
@@ -811,7 +811,7 @@
         <mxCell id="LWZBtPnpechll_882FjG-7" value="设备原值" style="ellipse;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
           <mxGeometry x="323" y="150" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_SmEgkHZK2ksjBxif6EU-12" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1" target="LWZBtPnpechll_882FjG-1">
+        <mxCell id="_SmEgkHZK2ksjBxif6EU-12" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" parent="1" edge="1" target="LWZBtPnpechll_882FjG-1" source="_SmEgkHZK2ksjBxif6EU-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="540" y="80" as="sourcePoint" />
             <mxPoint x="430" y="60" as="targetPoint" />
