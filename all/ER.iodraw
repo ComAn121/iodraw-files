@@ -266,19 +266,13 @@
           <mxGeometry x="995" y="1364" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LWZBtPnpechll_882FjG-44" value="分配类型" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="403" y="1244" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="LWZBtPnpechll_882FjG-45" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="123" y="1434" as="sourcePoint" />
-            <mxPoint x="253" y="1464" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="330" y="1314" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LWZBtPnpechll_882FjG-46" value="分配时间" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-7" y="1404" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LWZBtPnpechll_882FjG-50" value="分配状态" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="123" y="1234" width="120" height="80" as="geometry" />
+          <mxGeometry x="120.78" y="1314" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LWZBtPnpechll_882FjG-51" value="设备检修信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="1834" width="120" height="60" as="geometry" />
@@ -802,29 +796,11 @@
         <mxCell id="_SmEgkHZK2ksjBxif6EU-71" value="联系电话" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="750" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LWZBtPnpechll_882FjG-43" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="313" y="1444" as="sourcePoint" />
-            <mxPoint x="413" y="1314" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="LWZBtPnpechll_882FjG-32" value="设备调拨信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="253" y="1444" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LWZBtPnpechll_882FjG-35" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="383" y="1564" as="sourcePoint" />
-            <mxPoint x="343" y="1494" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="223" y="1440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LWZBtPnpechll_882FjG-36" value="分配id" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="443" y="1400" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="LWZBtPnpechll_882FjG-48" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="203" y="1314" as="sourcePoint" />
-            <mxPoint x="293" y="1444" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
