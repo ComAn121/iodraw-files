@@ -830,7 +830,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_SmEgkHZK2ksjBxif6EU-65" value="厂商名称" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="363" y="994" width="120" height="80" as="geometry" />
+          <mxGeometry x="343" y="994" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_SmEgkHZK2ksjBxif6EU-66" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1" target="_SmEgkHZK2ksjBxif6EU-61" source="_SmEgkHZK2ksjBxif6EU-65">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -850,7 +850,7 @@
         <mxCell id="_SmEgkHZK2ksjBxif6EU-69" value="联系人" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="243" y="750" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_SmEgkHZK2ksjBxif6EU-70" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1" source="_SmEgkHZK2ksjBxif6EU-71">
+        <mxCell id="_SmEgkHZK2ksjBxif6EU-70" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1" target="_SmEgkHZK2ksjBxif6EU-61" source="_SmEgkHZK2ksjBxif6EU-71">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="123" y="874" as="sourcePoint" />
             <mxPoint x="243" y="884" as="targetPoint" />
