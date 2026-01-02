@@ -755,10 +755,10 @@
           <mxGeometry x="1170" y="1916" width="60" height="36" as="geometry" />
         </mxCell>
         <mxCell id="_SmEgkHZK2ksjBxif6EU-2" value="设备id" style="ellipse;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="400" y="-180" width="120" height="80" as="geometry" />
+          <mxGeometry x="420" y="-190" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_SmEgkHZK2ksjBxif6EU-4" value="规格型号" style="ellipse;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="230" y="-200" width="120" height="80" as="geometry" />
+          <mxGeometry x="173" y="-180" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LWZBtPnpechll_882FjG-1" value="设备信息" style="rounded=0;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
           <mxGeometry x="314.4433333333333" y="14.0625" width="115.55555555555554" height="65.625" as="geometry" />
@@ -796,7 +796,7 @@
         <mxCell id="LWZBtPnpechll_882FjG-9" value="设备状态" style="ellipse;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
           <mxGeometry x="494.4444444444444" y="-62.5" width="115.55555555555554" height="87.5" as="geometry" />
         </mxCell>
-        <mxCell id="_SmEgkHZK2ksjBxif6EU-1" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="_SmEgkHZK2ksjBxif6EU-1" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" edge="1" source="LWZBtPnpechll_882FjG-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="388.5185185185185" y="14.0625" as="sourcePoint" />
             <mxPoint x="436.66666666666663" y="-95.3125" as="targetPoint" />
