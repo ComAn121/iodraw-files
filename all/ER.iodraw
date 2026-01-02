@@ -56,7 +56,7 @@
           <mxGeometry y="40" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_SmEgkHZK2ksjBxif6EU-72" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry y="829" width="560" height="340" as="geometry" />
+          <mxGeometry x="43" y="814" width="560" height="340" as="geometry" />
         </mxCell>
         <mxCell id="_SmEgkHZK2ksjBxif6EU-61" value="设备厂商信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="_SmEgkHZK2ksjBxif6EU-72" vertex="1">
           <mxGeometry x="220" y="60" width="120" height="60" as="geometry" />
