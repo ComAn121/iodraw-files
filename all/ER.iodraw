@@ -359,7 +359,7 @@
           <mxGeometry x="-37" y="1774" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LWZBtPnpechll_882FjG-58" value="检修花费" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="293" y="1694" width="120" height="80" as="geometry" />
+          <mxGeometry x="323" y="1714" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LWZBtPnpechll_882FjG-59" value="" style="endArrow=none;html=1;rounded=0;entryX=0.326;entryY=0.986;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="LWZBtPnpechll_882FjG-58" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
