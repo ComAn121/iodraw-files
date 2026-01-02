@@ -787,7 +787,7 @@
             <mxPoint x="407.77777777777777" y="79.6875" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LWZBtPnpechll_882FjG-8" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="LWZBtPnpechll_882FjG-8" value="" style="endArrow=none;html=1;rounded=0;exitX=0.991;exitY=0.583;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1" source="LWZBtPnpechll_882FjG-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="427.037037037037" y="35.9375" as="sourcePoint" />
             <mxPoint x="494.4444444444444" y="-7.8125" as="targetPoint" />
@@ -796,13 +796,13 @@
         <mxCell id="LWZBtPnpechll_882FjG-9" value="设备状态" style="ellipse;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
           <mxGeometry x="535.2244444444444" y="3.1299999999999955" width="115.55555555555554" height="87.5" as="geometry" />
         </mxCell>
-        <mxCell id="_SmEgkHZK2ksjBxif6EU-1" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" edge="1" source="LWZBtPnpechll_882FjG-1">
+        <mxCell id="_SmEgkHZK2ksjBxif6EU-1" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" edge="1" target="_SmEgkHZK2ksjBxif6EU-2" source="LWZBtPnpechll_882FjG-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="388.5185185185185" y="14.0625" as="sourcePoint" />
             <mxPoint x="436.66666666666663" y="-95.3125" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_SmEgkHZK2ksjBxif6EU-3" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1" target="LWZBtPnpechll_882FjG-1">
+        <mxCell id="_SmEgkHZK2ksjBxif6EU-3" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1" target="LWZBtPnpechll_882FjG-1" source="_SmEgkHZK2ksjBxif6EU-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="292.2222222222222" y="-117.1875" as="sourcePoint" />
             <mxPoint x="350" y="14.0625" as="targetPoint" />
