@@ -823,13 +823,10 @@
         <mxCell id="_SmEgkHZK2ksjBxif6EU-63" value="厂商id" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="143" y="994" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_SmEgkHZK2ksjBxif6EU-64" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="_SmEgkHZK2ksjBxif6EU-64" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1" target="_SmEgkHZK2ksjBxif6EU-69">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="653" y="900" as="sourcePoint" />
             <mxPoint x="653" y="760" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="320" y="910" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="_SmEgkHZK2ksjBxif6EU-65" value="厂商名称" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
