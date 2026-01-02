@@ -770,7 +770,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LWZBtPnpechll_882FjG-3" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="118.88888888888889" y="112.5" width="115.55555555555554" height="87.5" as="geometry" />
+          <mxGeometry x="122.99888888888889" y="130" width="115.55555555555554" height="87.5" as="geometry" />
         </mxCell>
         <mxCell id="LWZBtPnpechll_882FjG-4" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -794,7 +794,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LWZBtPnpechll_882FjG-9" value="设备状态" style="ellipse;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="494.4444444444444" y="-62.5" width="115.55555555555554" height="87.5" as="geometry" />
+          <mxGeometry x="535.2244444444444" y="3.1299999999999955" width="115.55555555555554" height="87.5" as="geometry" />
         </mxCell>
         <mxCell id="_SmEgkHZK2ksjBxif6EU-1" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" edge="1" source="LWZBtPnpechll_882FjG-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -809,7 +809,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LWZBtPnpechll_882FjG-7" value="设备原值" style="ellipse;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="440" y="150" width="120" height="80" as="geometry" />
+          <mxGeometry x="323" y="150" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_SmEgkHZK2ksjBxif6EU-12" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -818,7 +818,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_SmEgkHZK2ksjBxif6EU-13" value="年折旧率" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="540" y="50" width="120" height="80" as="geometry" />
+          <mxGeometry x="533" y="150" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
