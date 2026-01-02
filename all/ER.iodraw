@@ -331,7 +331,7 @@
         <mxCell id="LWZBtPnpechll_882FjG-51" value="设备检修信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="1834" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LWZBtPnpechll_882FjG-52" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" edge="1" source="LWZBtPnpechll_882FjG-53">
+        <mxCell id="LWZBtPnpechll_882FjG-52" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1" target="LWZBtPnpechll_882FjG-51" source="LWZBtPnpechll_882FjG-53">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="143" y="1944" as="sourcePoint" />
             <mxPoint x="193" y="1894" as="targetPoint" />
@@ -340,7 +340,7 @@
         <mxCell id="LWZBtPnpechll_882FjG-53" value="检修id" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="43" y="1944" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LWZBtPnpechll_882FjG-54" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="LWZBtPnpechll_882FjG-54" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1" target="LWZBtPnpechll_882FjG-51">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="333" y="1954" as="sourcePoint" />
             <mxPoint x="263" y="1894" as="targetPoint" />
@@ -356,7 +356,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LWZBtPnpechll_882FjG-57" value="检修人" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="60" y="1724" width="120" height="80" as="geometry" />
+          <mxGeometry x="60" y="1714" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LWZBtPnpechll_882FjG-58" value="检修花费" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="323" y="1714" width="120" height="80" as="geometry" />
