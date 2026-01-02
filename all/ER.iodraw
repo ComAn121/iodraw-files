@@ -316,32 +316,17 @@
         <mxCell id="LWZBtPnpechll_882FjG-60" value="设备报废信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240.78" y="1990" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LWZBtPnpechll_882FjG-61" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="183" y="2214" as="sourcePoint" />
-            <mxPoint x="233" y="2164" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="LWZBtPnpechll_882FjG-62" value="报废id" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="93" y="2204" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="LWZBtPnpechll_882FjG-63" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="303" y="2214" as="sourcePoint" />
-            <mxPoint x="283" y="2164" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LWZBtPnpechll_882FjG-64" value="设备id" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="243" y="2214" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LWZBtPnpechll_882FjG-66" value="报废申请人" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="413" y="2214" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LWZBtPnpechll_882FjG-68" value="报废时间" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="493" y="2044" width="120" height="80" as="geometry" />
+          <mxGeometry x="380" y="1860" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LWZBtPnpechll_882FjG-70" value="报废处理方式" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="23" y="2064" width="120" height="80" as="geometry" />
+          <mxGeometry x="103" y="1874" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LWZBtPnpechll_882FjG-31" value="联系电话" style="ellipse;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
           <mxGeometry x="850" y="1300" width="120" height="80" as="geometry" />
